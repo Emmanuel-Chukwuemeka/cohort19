@@ -1,0 +1,53 @@
+.banner{
+	background-image:linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)),url('../images/banner.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-blend-mode:overlay;
+	height: 400px;
+}
+#heading1{
+	position: relative;
+	top: -240px;
+	color: #fff;
+	text-align: center;
+}
+#para1{
+	position: relative;
+	top: -235px;
+	color: #fff;
+	text-align: center;
+}
+#welcome{
+	position: relative;
+	top: -200px;
+	color: #fff;
+	left: 96%;
+}
+
+.mybox{
+	width:200px;
+	height:200px;
+	border:1px solid grey;
+}
+
+.blackbox{
+	background-color:#000;
+	position:relative;
+	left:500px;
+	z-index:3;
+}
+.greenbox{
+	background-color:rgb(224,194,194);
+	position:relative;
+	left:550px;
+	top:-120px;
+	z-index:4;
+}
+
+.yellowbox{
+	background-color:#fff123;
+	position:relative;
+	left:450px;
+	top:-320px;
+	z-index:5;
+}

@@ -1,0 +1,19 @@
+body{
+/*background: skyblue url('../images/f3.jpg') no-repeat right center;*/
+background-image:url('../images/banner.jpg');
+}
+
+h1{
+	
+	background-color: tomato;
+	
+}
+
+p{
+	background-color:violet;
+}
+
+header, footer{
+	border:10px solid #000;
+	
+}
