@@ -1,0 +1,8 @@
+INSERT INTO persons VALUES ('123', 'EMMANUEL', 'SAMUEL', 'N0 12 SAMUEL EMMANUEL MICHAEL AVENUE GRA LONDON', 'LONDON');
+
+
+
+
+
+INSERT INTO persons (pid, lastname, firstname, address, city)
+VALUES('90', 'NNADI', 'SOLOMON', 'UMUORIE NAZE', 'OWERRI');
